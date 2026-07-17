@@ -28,5 +28,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-.idea
-.java1.iml
+.idea/
+*.iml
+out/
